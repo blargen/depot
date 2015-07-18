@@ -16,5 +16,5 @@
 !/log/.keep
 /tmp
 
-# Ignore all idea files, please
+# Ignore all IntelliJ files
 *.idea
